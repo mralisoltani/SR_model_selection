@@ -1,0 +1,7 @@
+,dataset,criteria,avg_test_error,precision_at_k,ground_truth_hit,avg_size
+0,BFGS_cluster_results_f2_100_2,MSE_train_opt,0.00017527412653321614,0.0,0.0,79.9375
+1,BFGS_cluster_results_f2_100_2,AIC,2.186542155273286e-05,0.125,1.0,25.875
+2,BFGS_cluster_results_f2_100_2,BIC,1.5202159853146824e-05,0.125,1.0,24.0625
+3,BFGS_cluster_results_f2_100_2,AICc,2.112125149975281e-05,0.125,1.0,25.625
+4,BFGS_cluster_results_f2_100_2,MDL,1.5130777351202069e-05,0.25,1.0,23.5
+5,BFGS_cluster_results_f2_100_2,Err_in,1.5161871766739332e-05,0.3125,0.0,28.5

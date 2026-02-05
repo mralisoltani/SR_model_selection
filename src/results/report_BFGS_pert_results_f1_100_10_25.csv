@@ -1,0 +1,7 @@
+,dataset,criteria,avg_test_error,precision_at_k,ground_truth_hit,avg_size
+0,BFGS_pert_results_f1_100_10,MSE_train_opt,0.017418008319297566,0.04,0.0,37.84
+1,BFGS_pert_results_f1_100_10,AIC,0.014027688601975645,0.2,1.0,32.48
+2,BFGS_pert_results_f1_100_10,BIC,0.014027688601975648,0.2,1.0,32.48
+3,BFGS_pert_results_f1_100_10,AICc,0.014027688601975648,0.2,1.0,32.48
+4,BFGS_pert_results_f1_100_10,MDL,0.010780171054068055,0.32,1.0,29.76
+5,BFGS_pert_results_f1_100_10,Err_in,0.01083187778236539,0.4,0.0,37.48
